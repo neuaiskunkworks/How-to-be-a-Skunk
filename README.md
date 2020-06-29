@@ -1,4 +1,4 @@
-Hello and Welcome to Skunkworks GitHub,
+Hello and Welcome to AI Skunkworks GitHub,
 
 All those who are interested in joining Skunkworks and want to know the procedures. Below are the detailed guidelines.
 First - the workspace and important websites to be updated with the ongoing activities are as below:
