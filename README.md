@@ -57,3 +57,19 @@ You can join us as:
 - NEU AI Skunkworks - <a href="https://neuaiskunkworks.slack.com/">neuaiskunkworks.slack.com</a>
 
 
+For ongoing projects in Skunkworks, kindly refer - <a href="https://github.com/skunkworksneu/Projects">Skunkworks Projects</a>. Below are the project managers and onboarding managers. Please find their respect contact details in the Projects handled by them.
+        
+     • Prabhu Subramanian
+     • Nikunj Lad
+     • Kartik Kumar
+     • Abhishek Maheshwarappa 
+     • Bhagyashri Gundal
+     • Abhishek Dabas
+
+Feel free to visit our page on LinkedIn <a href="https://www.linkedin.com/company/skunkworksneu/">AI Skunkworks at Northeastern University</a>
+<center>
+    Looking forward to have you onboard. Be a <b>Skunk</b>!!!
+</center>
+
+## <center>Thank you</center>
+
