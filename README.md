@@ -5,8 +5,8 @@ AI Skunkworks is a Graduate Students Club at Northeastern University founded in 
 ### Our Vision:
 AI Skunkworks envisions a platform where students can get opportunities to research in the Artificial Intelligence and Machine Learning domain. We are dedicated to supporting student researchers through content and guidelines to study and conduct research!
 
-•	President - Prabhu Subramanian (Subramanian.pr@northeastern.edu) 
-•	Treasurer - Nikunj lad (lad.n@northeastern.edu) 
+- President - Prabhu Subramanian (Subramanian.pr@northeastern.edu) 
+- Treasurer - Nikunj lad (lad.n@northeastern.edu) 
 
 
 
@@ -75,5 +75,5 @@ Feel free to visit our page on LinkedIn <a href="https://www.linkedin.com/compan
     Looking forward to have you onboard. Be a <b>Skunk</b>!!!
 </center>
 
-## <center>Thank you</center>
+## <center>Thank you!</center>
 
