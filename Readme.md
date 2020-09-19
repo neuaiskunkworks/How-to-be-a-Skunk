@@ -60,10 +60,10 @@ You can join us as:
 - Once your workshop has ended, you can join any project that is a fit for you, or you can conduct your own project. In order to this, you need to pitch your project idea to Prof. Nik Bear Brown, write your project idea in project description template, and you are required to present your idea in an Open-Mic session. - If you are joining through this option, you will be invited to join AI Skunkworks members slack channel.
 
 #### Teams Channels: To convey messages and to get in touch with the members.
-- NEU AI Skunkworks - <a href="https://teams.microsoft.com/l/channel/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/General?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7</a>
+- NEU AI Skunkworks - <a href="https://teams.microsoft.com/l/channel/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/General?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7">
 
 
-For ongoing projects in Skunkworks, kindly refer - <a href="https://github.com/neuaiskunkworks/Research-2020</a>. Below are the project managers and onboarding managers. Please find their respect contact details in the Projects handled by them.
+For ongoing projects in Skunkworks, kindly refer - <a href="https://github.com/neuaiskunkworks/Research-2020">. Below are the project managers and onboarding managers. Please find their respect contact details in the Projects handled by them.
         
      • Kartik Kumar
      • Shruti Patil
