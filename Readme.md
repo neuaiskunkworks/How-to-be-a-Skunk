@@ -14,7 +14,7 @@ AI Skunkworks envisions a platform where students can get opportunities to resea
 
 Get in touch with us via below platforms for more insights:
 
-- LinkedIn: https://lnkd.in/ecF-UEw
+- [LinkedIn](https://lnkd.in/ecF-UEw)
 - Twitter: https://lnkd.in/exQK7xG
 - Facebook: https://lnkd.in/dVgUXnE
 - Instagram: https://lnkd.in/d9jCX9b
