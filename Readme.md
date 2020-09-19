@@ -15,12 +15,12 @@ AI Skunkworks envisions a platform where students can get opportunities to resea
 Get in touch with us via below platforms for more insights:
 
 - [LinkedIn](https://lnkd.in/ecF-UEw)
-- Twitter: https://lnkd.in/exQK7xG
-- Facebook: https://lnkd.in/dVgUXnE
-- Instagram: https://lnkd.in/d9jCX9b
-- Teams: https://teams.microsoft.com/l/channel/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/General?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
-- Slack: https://join.slack.com/t/neuaiskunkworks/shared_invite/enQtNzQyNDg1MjgzNjM0LTYxMWRhMWViMWIxMzUxMTg0YjI4YTQ2NTQyOWM1MmNkOThkYWI0MWU4Y2MyZjA2Njg2Y2Y0YjRjNjQwNWY3MDk 
-- Youtube: https://www.youtube.com/channel/UCSqJ-CN73dOEinvRvlYc2Cw
+- [Twitter](https://lnkd.in/exQK7xG)
+- [Facebook](https://lnkd.in/dVgUXnE)
+- [Instagram](https://lnkd.in/d9jCX9b)
+- [Teams](https://teams.microsoft.com/l/channel/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/General?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
+- [Slack](https://join.slack.com/t/neuaiskunkworks/shared_invite/enQtNzQyNDg1MjgzNjM0LTYxMWRhMWViMWIxMzUxMTg0YjI4YTQ2NTQyOWM1MmNkOThkYWI0MWU4Y2MyZjA2Njg2Y2Y0YjRjNjQwNWY3MDk) 
+- [Youtube](https://www.youtube.com/channel/UCSqJ-CN73dOEinvRvlYc2Cw)
 
 Chat with our members and post your questions here!
  
@@ -60,7 +60,7 @@ You can join us as:
 - Once your workshop has ended, you can join any project that is a fit for you, or you can conduct your own project. In order to this, you need to pitch your project idea to Prof. Nik Bear Brown, write your project idea in project description template, and you are required to present your idea in an Open-Mic session. - If you are joining through this option, you will be invited to join AI Skunkworks members slack channel.
 
 #### Teams Channels: To convey messages and to get in touch with the members.
-- NEU AI Skunkworks - <a href="https://teams.microsoft.com/l/channel/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/General?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7">
+- NEU AI Skunkworks - <a href="https://teams.microsoft.com/l/channel/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/General?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7"></a>
 
 
 For ongoing projects in Skunkworks, kindly refer - <a href="https://github.com/neuaiskunkworks/Research-2020">. Below are the project managers and onboarding managers. Please find their respect contact details in the Projects handled by them.
