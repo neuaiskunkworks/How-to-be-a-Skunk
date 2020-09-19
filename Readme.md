@@ -63,7 +63,7 @@ You can join us as:
 - NEU AI Skunkworks - <a href="https://teams.microsoft.com/l/channel/19%3a9063a758b4774908b7bb74a0514818df%40thread.tacv2/General?groupId=a3f4c2cc-bf92-475f-80b4-dd4c27aa5cd1&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7"></a>
 
 
-For ongoing projects in Skunkworks, kindly refer - <a href="https://github.com/neuaiskunkworks/Research-2020">. Below are the project managers and onboarding managers. Please find their respect contact details in the Projects handled by them.
+For ongoing projects in Skunkworks, kindly refer - <a href="https://github.com/neuaiskunkworks/Research-2020">GitHub</a>. Below are the project managers and onboarding managers. Please find their respect contact details in the Projects handled by them.
         
      • Kartik Kumar
      • Shruti Patil
