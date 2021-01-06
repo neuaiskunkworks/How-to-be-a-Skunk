@@ -5,7 +5,7 @@ AI Skunkworks is a Graduate Students Club at Northeastern University founded in 
 ### Our Vision:
 AI Skunkworks envisions a platform where students can get opportunities to research in the Artificial Intelligence and Machine Learning domain. We are dedicated to supporting student researchers through content and guidelines to study and conduct research!
 
-- President - Kartik Kumar (kumar.kar@northeastern.edu) 
+- President - Abhishek Dabas (dabas.a@northeastern.edu)
 - Treasurer - Shruti Patil (patil.shru@northeastern.edu) 
 
 
@@ -65,13 +65,10 @@ You can join us as:
 
 For ongoing projects in Skunkworks, kindly refer - <a href="https://github.com/neuaiskunkworks/Research-2020">Research-2020</a>. Below are the project managers and onboarding managers. Please find their respect contact details in the Projects handled by them.
         
-     • Kartik Kumar
      • Shruti Patil
      • Abhishek Maheshwarappa 
      • Abhishek Dabas
-     • Bhagyashri Gundal
      • Jugal Joshi
-     • Reema Yadav
      • Prashanthi Matham
      
 
